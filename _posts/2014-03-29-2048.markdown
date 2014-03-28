@@ -1,0 +1,12 @@
+--- 
+wordpress_id: 6
+layout: post
+title: Play with popular 2048 AI
+wordpress_url: http://zinking.github.com/?p=6
+---
+Recent work on [2048 AI][1]
+
+http://zinking.github.io/2048.html
+==
+
+  [1]: http://zinking.github.io/2048.html
