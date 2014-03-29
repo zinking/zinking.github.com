@@ -31,6 +31,8 @@ function GameAI( game_manager ){
 	    }
         });
 	
+	var moved = false;
+	
 	traversals.x.forEach( function(x){
 	    traversals.y.forEach( function(y){
 		cell = { x:x, y:y };
@@ -50,14 +52,40 @@ function GameAI( game_manager ){
 		    else{
 			moveTile2Cell( grid, tile, positions.farthest );
 		    }
+
+		    if( !self.gm.positionsEqual( cell,tile)){
+			moved = true;
+		    }
 		}
             });
         });
 	
-	return grid;
+	return {g:grid,m:moved};
+    }
+    var center_score = function( grid ,d , moved){
+	var cell_count = 0;
+	var center_score = 0;
+	var tile;
+	var cell;
+	for( var x=0; x<grid.size; x++ ){
+	    for( var y=0; y<grid.size; y++ ){
+		cell = {x:x,y:y};
+		if( grid.cellAvailable(cell) ) {
+		    cell_count ++;
+		}
+		tile = grid.cellContent(cell)
+		if( tile ){
+		    var d0 = grid.size/2;
+		    var ds = Math.pow( x-d0, 2 ) + Math.pow( y-d0, 2 )
+		    center_score = ds*tile.value
+                }
+             }
+        }
+	
+	return {d:d,c:cell_count,t:center_score, m:moved}
     }
     
-    var score_grid = function( grid ,d ){
+    var greedy_score = function( grid ,d , moved){
 	var cell_count = 0;
 	var tile_match = 0;
 	var tile;
@@ -84,52 +112,63 @@ function GameAI( game_manager ){
              }
         }
 	
-	return {c:cell_count,t:tile_match}
+	return {d:d,c:cell_count,t:tile_match,m:moved}
     }
     
-    var greedy_move = function(){
+    var select_move = function( score_func){
 	//max available matches
 	//max cell available
-	var scores = []
-	for( var d=0; d<4; d++ ){
-	    var fake_grid = apply_move(d)
-	    scores.push( score_grid(fake_grid,d) )
-	}
-	
-	var maxd = 0;
-	var max_score = { c:0, t:0 }
-	var min_score = { c:1000, t:1000 }
+	var scores = [];
 	
 	for( var d=0; d<4; d++ ){
-	    var s = scores[d];
-	    if( s.t>=max_score.t && s.c >= max_score.c ){
-		max_score = s;
-		maxd = d;
-	    }
-	    if( s.t<=min_score.t && s.c <= min_score.c ){
-		min_score = s;
-	    }
-        }
-	
-	if( max_score.t == min_score.t && max_score.c == min_score.c ){
-	    //in case it get stuck
-	    maxd = Math.floor( Math.random() * 10 ) % 4
+	    var r = apply_move(d);
+	    var fake_grid = r.g;
+	    var moved =r.m;
+	    scores.push( score_func(fake_grid,d, moved) );
 	}
+	
+	function compare_score( sl, sr ){
+	    if( sl.t >= sr.t && sl.c >= sr.c ) return -1;
+	    else if ( sl.c > sr.c ) return -1;
+	    return 1;
+	}
+	
+	scores.sort( compare_score );
 
-	self.gm.move(maxd)
-	if( self.gm.over ) self.stop()
-
+	for( var d=0; d<4; d++ ){
+	    var r= scores[d];
+	    if( r.m ) {
+		self.gm.move( r.d );
+		break;
+	    }
+	}
+	
+	//self.gm.move(maxd)
+	if( self.gm.over ) self.stop();
     }
-    
+
     
     
     self.begin = function(){
         self.timer = setInterval( random_move, 1000 ) 
     }
     self.begin_ai2 = function(){
-        self.timer = setInterval( greedy_move, 100 ) 
+        self.timer = setInterval( function(){ select_move(greedy_score) } , 300 ) 
+        //self.timer = setInterval( function(){ select_move(center_score) } , 300 ) 
     }
     self.stop  = function(){
 	clearInterval( self.timer )
+    }
+    
+    self.toggle_ai = function ( dom ){
+	if( dom.dataset['start'] && dom.dataset['start'] == 'y' ){//if started
+	    self.stop()
+	    dom.dataset['start'] = 'n' 
+	}
+	else{
+	    clearInterval( self.timer )
+	    self.begin_ai2()
+	    dom.dataset['start'] = 'y' 
+	}
     }
 }
