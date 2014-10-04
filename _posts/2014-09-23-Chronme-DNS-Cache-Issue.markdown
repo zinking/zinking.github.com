@@ -17,6 +17,7 @@ wordpress_url: http://zinking.github.com/?p=7
 3. Survey Chrome的相关机制。 [Chrome DNS prefetch][1]。 Chrome为了加快页面的加载速度，对URL解析进行了预取。 并且由于对本地DNS缓存数量有限， CHROME也对预取进行了缓存，并且通过一定的手段保证两个缓存间的一致性。 很显然这些合理的假设被流氓的ISP破坏了。
 
 4. WorkAround： 目的就是要刷新Chrome的Prefetch缓存， 四处寻找之后，在Chrome调试窗口里找到了 DisableCache 使用之后成功刷新缓存。 解决问题。
+    
 ==
 
   [1]:http://www.chromium.org/developers/design-documents/dns-prefetching
