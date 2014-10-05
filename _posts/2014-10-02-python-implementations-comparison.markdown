@@ -49,6 +49,12 @@ Pysco是Python上较早的尝试对Python进行JIT加速的项目了， 通过Py
 2.4 Cython
 
 [Cython][1] 并非完整的Python运行时实现（能够兼容大部分Python语法），Cython通过将现有的Python代码编译成更加高效的字节码供运行时使用。 Cython的介绍显示在一般的Pybench测试中超过Cpython效率30%，对于一般的循环优化等等则达到了20%-60%的改善。
+    
+2.5 Stackless
+
+函数的调用总是伴随着开销，即便是在最底层的C语言下也是这样，所以C语言里会有内联这样的编译特性来取消不必要的函数调用开销。 在python里也是如此，stackless通过引入一种开销很低的纤程，类似coroutine。 如果使用得当，能够改善多线程程序的性能，可读性；提高程序员效率。
+    
+然而Stackless并没有流行开来，虽然官网仍然维持着一些稳定版本，但是引用量并不高。 stackless的主要的贡献人员也已经[转向了pypy][6]，他们将stackless的一些主要思想在pypy中进行了更好的实现。 在标准的python版本中stackless也没有能够取得一席之地， 主要原因在于stackless的发起者并没有能够很系统理论的陈述stackless， 并且stackless无法在Jython和IronPython中实现。
 
 ==
 
@@ -57,3 +63,4 @@ Pysco是Python上较早的尝试对Python进行JIT加速的项目了， 通过Py
   [3]:http://www.oschina.net/translate/why-are-there-so-many-pythons
   [4]:http://stackoverflow.com/questions/18946662/why-shouldnt-i-use-pypy-over-cpython-if-pypy-is-6-3-times-faster
   [5]:https://tech.dropbox.com/2014/04/introducing-pyston-an-upcoming-jit-based-python-implementation/
+  [6]:http://stackoverflow.com/questions/588958/what-are-the-drawbacks-of-stackless-python
