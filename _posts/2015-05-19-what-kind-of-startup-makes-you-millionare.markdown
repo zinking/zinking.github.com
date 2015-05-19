@@ -1,0 +1,228 @@
+--- 
+wordpress_id: 14
+layout: post
+title: 加入什么样的创业公司能够让你财务自由？
+wordpress_url: http://zinking.github.com/?p=14
+---
+[Translation] 文章来自Quora
+
+Brandon Smietana, Founder of Symbolic Analytics
+937 upvotes by Muhammad At-Tauhidi, Jess Bombacie, Quanyi Mo, (more)
+Most exits today are M&As instead of IPOs and most M&As are less than 30 million, typically 15 million.  Let's walk through optimistic numbers of a typical exit to see how much money I would make.  Then we will compute how much money you would make as an employee.
+
+如今大多数的投资退出方式都是通过收购完成，而不是上市。 大多数的收购金额不超过3千万美金，通常只有1500万左右。 我们来看看乐观情况下创业退出时候我作为创始人能够赚多少钱。 然后我可以算算你帮我打工能赚多少钱。
+
+Assumptions.
+1> I take 10 million dollars in investment
+2> Investors own 50% of the company (optimistic)
+3> I sell company for 30 million dollars
+4> I own 30% of the outstanding shares (extremely optimistic)
+
+假设
+1> 我拿了一千万美元投资
+2> 投资者占有公司50%的股权 （乐观估计）
+3> 我以3千万刀出售了公司
+4> 我占有公司30%的股份 （极度乐观 ）
+
+Investors have preferred shares.  They receive the money they invested back first, then they "participate" in what is left.
+
+1> Of the 30 million dollar exit, the investors get their 10 million dollars back first.  Then there is only 20 million left.
+2>  Then the preferred shareholders participate in 50% of whats left, so they get another 10 million.
+3>  Now there is 10 million left to be split between the common stock shareholders (employees and founders and management).
+
+I as, the founder/CEO and largest common stock holder would only make make 6 million.  There is 4 million left for the rest of the common stock holders (all of the other employees).
+
+Typical early employees receive less than 1/30th of the equity of the CEO.  Therefore a very critical, early employee would make about 200k from this exit.
+
+投资者拿的是优先股。 他们首先会收回他们投资的资金， 然后他们参与分配剩下的部分。
+1>在总共3千万的退出金额中， 投资者首先收回他们的1千万投资， 然后还剩下两千万
+2>然后这些优先股股东分走剩下的一半，也就是，他们再拿走一千万
+3>现在就剩下一千万分给普通股股东（员工，管理层和创始人）
+
+Now, to be less optimistic and more realistic.  We also know that 70% of entrepreneurs raising series A will receive nothing but their salary from the company. Therefore as an employee, 
+
+there is a 70% chance your equity is worthless if you join at the Series A.
+you will receive substantially less equity at series A than employees before the series A.
+After the series A, a new hire will be lucky to own 0.3%
+Whatever the employee gets at hire, will suffer dilution from management changes and additional rounds of investment
+
+好吧，让我们别那么乐观，更加脚踏实地一点。 我们知道有70%左右的企业家从A轮投资中除了工资外毛都拿不到。 因此作为一个打工者，
+》 如果你在A轮加入，有70%的概率，你得期权毛都不值
+》 你得到的跟在A轮之前就加入的员工相比要少的多得多
+》 过了A轮，新加入的能拿到0.3%就不错了
+》 不管员工加入时候拿到多少，都有可能会因为管理层的决定和额外的投资轮而被稀释
+
+But what if I join the next Facebook?
+可我要是加入的时下一个Facebook呢？
+
+Silicon valley has changed over the past decade.  These changes affect how much money you will make as a startup employee.
+
+If you joined a successful startup in 1998, you would have made a lot of money.  However if you had joined Facebook you would not have made nearly as much.  The employees of the "next Facebook" are likely to do even more poorly. Here is why.
+
+Google had a very low valuation when the early employees joined. 
+
+硅谷在过去的十年里已经发生了很大的变化。 这些变化影响了你作为创业公司的一员所能够获得的报酬。
+在98年，如果你加入一家成功的创业公司， 你肯定已经赚了一大笔钱了。 不过如果你加入的时脸书的话，你赚得可能就没那么多了。 而那些下一个“脸书”的雇员能获得的可能就更少了。 下面是为什么。
+
+当第一批员工加入的时候，谷歌的估值还很低。
+Google's valuation went from 40 million to nearly 200 billion.
+The janitor who joined Google and received $1,000 in equity, would be worth 4 million in 2008.
+An engineer who received 50k in equity would be worth 100 million in 2008.
+The chef at Google made 28 million.
+》 谷歌的估值从4千万涨到了近2万亿
+》 那个加入谷歌的油漆工，拿了1000股的那位， 2008年股票价值4百万
+》 拿了50K股的工程师身价在2008年乃1一个亿
+》 谷歌的主管赚了2800万
+
+
+There are 4 reasons that Google employees did well financially:
+有四个原因让谷歌的员工在财务上如此成功
+
+They received stock options when the company was at a low valuation
+The valuation of the company grew 4000x from their series A valuation
+Employees received options with artificially low strike prices (1/10th of valuation of preferred), because 409(a) regulations did not exist
+The strike price was low enough that Google employees could exercise their options and receive capital gains tax treatment (15% tax rate) instead of income tax treatment (50% tax rate)
+》 当公司估值很低的时候他们获得了大笔的期权
+》 A轮融资后公司的估值涨了4000倍
+》 员工获得的期权执行价巨低无比 （1/10左右） 那个时候还没有409(a)监管条例
+》 执行价实在是太低了， 乃至交的税都是按资产获益而不是按个人所得交税
+
+
+When Google issues stock to its employees it was
+1> At a low valuation compared to the peak valuation of the company
+2> Before IRS mandated 409(a) valuations for employee stock options
+
+A decade ago, startups routinely issued options to employees with undervalued strike prices, in order to attract talent.  The employees became rich if the company IPOed because they received stock options with a strike price below market rate (one tenth the valuation of the preferred).
+
+Today this practice is illegal.  Executives can and still do received undervalued stock via restricted stock and 83(b) elections, but employees who receive inventive stock options now fall under 409(a).  Also, employees are now more likely to be hit with the 50% income tax rate on their options instead of the 15% capital gains tax treatment.
+
+With higher earlier valuations, it is unlikely that most employees have the cash required to exercise their options and gain the lower capital tax treatment instead of the income tax treatment.  409(a) also prevents the exercise price from being artificially low, as it was 10 years ago.  A startup employee exercising 2 million dollars worth of ISO options today can expect to pay a 50% tax rate, after California and Federal taxes.
+
+当谷歌向员工发售股票的时候
+1》 股票价格跟公司的峰值相比实在太低
+2》 在IRS发布409监管条例之前
+
+大约在10年前， 创业公司常规的向员工提供低价的股票期权来吸引人才。 如果公司上市的话，员工就能发财因为他们的股票期权比市场价要低得多。 （一般是优先股的1/10）
+
+今天这种做法是违法的。 管理层仍然能够通过受限的83(b)条例获得低价的股票期权，不过员工要接受期权激励就归409(a)条例了，而且员工如今通常要缴纳50%的所得税而不是15%的资产增值税。
+
+随着早期估值的提高， 大多数员工不大可能从期权中套现那么多的现金或者是享受资本增值税率。 409(a)同时限制了期权的价格不能像10年前那样任意低， 一个创业公司的员工出售2百万的期权要缴纳50%的联邦和加州所得税
+
+Founders and Executives often receive restricted stock under 83(b) election which qualify for the lower capital gains tax treatment, while employees are more likely to receive incentive options that are taxed at the higher rate.
+
+So as an employee, even if your company is sold, you may be hit with 50% tax rates.
+
+2 million is only 1 million after taxes.  Houses cost 3 million.
+
+创始人和管理层享受受限的83(b)股票监管条例， 他们可以享受更低的资产增益利率， 而普通员工的税率要高的多
+所以作为公司的普通员工， 哪怕你得公司出售了， 你也要缴50%的税
+
+2百万的话就是税后1百万， 买套房子要3百万
+
+Effect of Startup Valuations on Employees
+
+
+Many of the reasons Google employees did well, are no longer true.
+很多那些成就了谷歌员工的要素都已经不存在了
+
+Newer companies such as Facebook had very large early stage valuations and therefore early employees receives significantly less compared to previous startups.
+新兴的诸如Facebook这样的公司有着大量的早期评估， 因此早期的员工的获益和前期的一些公司相比要少得多。
+
+More importantly however, there are many fewer large IPOs and many 
+more smaller M&As.
+更重要的原因是， 大型的IPO越来越少，小型的兼并越来越多
+
+
+Most companies do not do as well as Google and Facebook.  Even within companies such as Facebook, only a small minority of the employees become wealthy.
+
+Zuckerberg has almost as much equity in Facebook as all the other non-executive employees combined (24% vs 30%) .  The first 50 Facebook non-executive employees have as much equity as the next 2500 employees.
+
+There is a pyramid of equity.  The drop off at each stage is massive.
+
+In a company with a 30 million dollar exit (the example above), a good M&A exit.  The CEO only made 6 million dollars.
+大多数公司远没有谷歌和Facebook经营的好， 哪怕是谷歌和Facebook这样的公司，只有一小部分员工实现了财务自由。
+
+扎克伯格一个人所占有的股份和公司所有其他管理层加起来差不多 （24% vs 30%） 公司最早的50个员工所占的股份和后2500个相同。
+
+股权结构是个金字塔，每一层的落差都是巨大的
+
+在一个3千万兼并退出的创业公司（上面提到的）， 也是一个好得兼并退出。 CEO只赚了600万刀。
+
+Relationship Between Startup Sector and Employee Returns
+创业公司行业和员工所得之间的关系
+
+There are the most startups in the consumer internet space, but this is the lowest revenue space.  Facebook for instance (one of the most successful consumer internet companies) only generates $3/year in revenue per monthly active user.
+
+在消费者因特网领域创业公司最多， 但是这块的利润空间也是最低。 例如Facebook（最成功的消费者因特网公司之一） 每个月每个活跃用户带来的收入只有3美元
+
+Very few consumer internet companies achieve profitability on an ad model.  Companies such as Ad.ly, Reddit, Digg, Myspace, Twitter and dozens of others have failed to achieve substaintialy profitability, even with extremely large audiences.
+
+只有很少一部分的消费性因特网公司通过广告和模型获得了利润。 如：Ad.ly Reddit Digg MySpace 推特， 以及一打没有获利的创业公司，哪怕这些公司有着客观的用户群。
+
+A consumer internet company with 500k monthly users which monetizes as well as Facebook on a per user basis only has revenue of 1.5 million year.  Don't drink the consumer internet Kool-aid.
+
+The B2B/SaaS and biotech markets still routinely have billion dollar exits, however few people have the skills or experience to start companies in this market.  There is however significantly more revenue here than in consumer startups.
+
+The most profitable market, is the market almost no one founds "startups" in.  Specifically, the financial sectors accounts for 70% of US corporate profits, but there are hardly any financial startups in Silicon Valley.  Furthermore, even those that exist are mostly consumer finance.
+
+Protip: statistically you options are worthless if you are at a Series A consumer startup with an ad revenue model.
+
+一个50万月活用户，并且盈利做到了和Facebook相当的消费者因特网公司一年的盈利也就只有150万刀。 别觉得这行的钱都是数的。
+
+B2B/SAAS 以及生物科技通常都有十亿级别的投资退出，然而很少有人有经验或者技术在这一行创办公司。 然而这个行业的利润比消费性因特网行业要多得多
+
+盈利最可观的市场， 也是根本没有创业公司入驻的市场。 特别是金融这一块占据了美国公司70%的利润， 然而硅谷几乎没有金融创业公司。 再者，哪怕有一两家做得也都是消费者金融。
+
+总结： 统计上来讲你得期权是没个毛用的，除非你所在的是一个A轮的消费型因特网公司，并且已经通过广告实现了盈利。
+
+Summary:
+总结：
+
+Reality Check:
+回顾现实：
+You will make 7.5 million bootstrapping a company with 500k a year earnings and selling at 15x P/E
+You will make less than 6 million raising 10 million in VC, having no cofounders and exiting at 30 million.
+If you are an employee at a company that exits at less than 30 million, you are unlikely to receive enough money to buy a decent house in Palo Alto (you will receive 200k, a good house costs 3 million).
+Even if you make 2 million dollars as an employee, the government will take 50% of that as taxes.
+A good engineer will make more money working in finance than at the average consumer internet startup.
+》如果你一手创立了一家每年盈利50w以上，并且以15倍的市盈率出售了这家公司的话， 你能挣到大概750w
+》如果没有其他合伙人，募集投资1000w并且能够以3000w的市场价退出的话，你能挣约莫600w
+》如果你只不过是一个以3000w市值退出的公司的普通员工，你不大可能有钱买得起PaloAlto的房子（你能分到大概20w，不过一栋好点的房子要300w）
+》哪怕你作为员工赚到了200万，政府还是会抽50%的税
+
+
+Getting Screwed:
+如果搞砸了：
+There are many people who have built and sold companies for over 50 million who have made no money
+There are people who have built companies that have had billion dollar IPOs and only made 4 million dollars.  In the 1980s 30mm on a 1 billion IPO was considered "good" for a founder (example: Adobe).
+Entrepreneurs and employees often make much much less than you would expect from an 80 million dollar exit
+80 million dollar exits as reported by media are sometimes actually only 8 million dollar exits.
+Slide sold for 200 million dollars to Google, but the employees made almost nothing, because so little was left for the common stock shareholders after the preferred shareholders were paid back
+Myspace was bought for $580 million, but the founders only received as much as they would have if the company was sold for $125 instead of the 580 million it was sold for.  The employees received almost nothing.  Read "Stealing MySpace" http://amzn.to/xOtYME
+》有很多人成立公司并且卖出了5000w的好价钱，但是一毛钱没有赚到
+》有不少人成立公司并且公开上市市值达好几十亿最后仅仅赚了400w刀。 要知道在80年代，10亿市值的上市公司要赚3000w对创始人来说才算不错。（比如Adobe）
+》 企业家和员工从一个估值8000w的并购退出中赚到的比你想象的要少的多
+》 媒体报道的8000w并购，有时候其实只有800w
+
+》Slide以2亿的价格卖给谷歌， 但是员工们几乎是毛都没赚到， 因为在优先股股东分完之后普通股股东几乎啥都没剩下了
+》MySpace以5亿8000w被收购， 但是创始人的获益仅相当于公司以1亿2500w出售而不是5亿8000w。 员工更是一毛钱都没分到。 可以参考“盗窃我的空间”  http://amzn.to/xOtYME
+
+Doing the Wrong Things:
+做错了事情：
+People start businesses in the wrong sectors
+Employees join "startups" in the wrong sectors
+》 人们在错误的行业创业
+》 员工加入了错误的创业行业
+
+Mindshare vs Marketshare:
+观念份额和市场份额
+VC gets the media attention but angels invest 30 times as much capital
+Stories about companies that IPO have the media attention, but for each of them there are dozens of small internet businesses with 2mm/year in revenue.
+There are 300,000 Americans that have over 10 million in assets.  Statistically almost none of them earned this wealth as startup employees or employees of venture backed companies.
+》风险投资也许能获得媒体关注， 不过天使轮投资要多30倍资金
+》 能够上市的公司也许能获得媒体关注，不过不要忘了，每个行业都有一打每年盈利2百万的小型因特网公司
+》 有超过30w的美国人总资产在1000w以上，不过统计角度来说，这些人几乎没有人的钱从创业公司当员工挣来的
+    
+==
+
+  [1]:http://www.chromium.org/developers/design-documents/dns-prefetching
