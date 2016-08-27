@@ -1,0 +1,112 @@
+#How Much For This Software?
+
+>#这块软件多少钱?
+
+2 June 2015 modified on 2 June 2015 [6 comments]
+
+[mgmt] [agile] [outsourcing]
+
+
+"Here is the specification; how much will it cost to create this software?" I hear this almost every day from clients of Teamed.io and prospects that are planning to become our clients and outsource the software development to us. My best answer is "I don't know; it depends." Sounds like a strange response for someone who claims he knows what he is doing, isn't it? "Here is the 20-page specification that explains all the features of the product; how come you can't estimate the cost?" I can, but I won't. Here is why.
+
+>这儿有份说明,看看这块软件走出来要多少钱? 几乎每天都能从顾客那里听到这样的话, 说要做我们的客户,把软件项目外包给我们. 最好的回答就是:我不知道,要看情况. 对于一个声称头脑清醒的人来说,这听起来有点儿奇怪 不是么? “听清楚了, 这儿有一份20页的软件说明, 解释了这个产品所需要的所有功能; 你怎么可能不知道要花多少钱?” 是的我能估计软件项目要花多少钱, 但是我不会这么做. 下面说原因:
+
+[Picture](Interstate 60: Episodes of the Road (2002) by Bob Gale)
+
+Let me ask you something else: Why do you need an estimate? Yes, I mean it — why do you ask me how much it will cost to develop the software for you? I can tell you why.
+
+>我来问你点儿别的东西: 为什么你要估算? 是的, 我问的就是这个问题: 为什么你要问我开发这个软件要花呢多少钱? 我来告诉你为什么把.
+
+Because you don't trust me.
+
+>因为你并不相信我
+
+And obviously you have good reasons for that, simply because we both know that a software product is something that can stay in development forever and never be finished. Look at YouTube, for example. How much do you think it would take to create a website like this, where users are able to upload their videos and then stream them? A few days for a good web developer. Will it stream video? Yes, it will. Will it be ready to compete with YouTube? No, it won't. Add a few hundred developers to the team, a few years, and a few million dollars, and even then you will be behind YouTube. Simply because it's a never-ending process. Any software, no matter how big or good it is, always needs more and more improvements and bug fixes.
+
+>而且,显然你有充分的理由不相信我, 我们都知道软件产品的开发周期能持续到永远. 看看YouTube, 你觉得开发这样的一个(用户能够上传,点播视屏流的)网站要多少钱?  恩也许一个好的开发只要几天. 能点播视频么? 当然可以. 但它能跟YouTube分庭抗礼么? 不可能. 在加上上百个开发人员, 几年, 再花上几百万美元. 哪怕到那个时候你还是远远落后于YouTube. 因为这是个永远不会结束的开发过程. 任何软件不管现在多大多好,总是需要这样无止境的改进和错误修复. 
+
+Thus, when you ask me how much it will cost to create a system similar to YouTube, according to your specifications, my honest and accurate answer should be: "All of your money, and it won't be enough." Will you sign a contract and outsource the project to me after that answer? No, you won't. That's why I have to lie and promise something like "three months and $40,000". Why would you trust me? If you're smart enough, you won't.
+
+My point is that no matter what I promise you, I will be wrong. Terribly wrong.
+
+What is the solution? What do you do? I totally understand that you do need a number to make your plans and secure the money. You need to choose the right software outsourcing partner, and you need to know what to expect and when, but …
+
+>因此,当你拿着自己的规格来问我要做一个跟YouTube一样的软件要花多少钱? 我精确又诚实的回答应该是: 花上你所有的身家, 也不够. 只是如果我说出那样的答案来的话, 你还会跟我签合同,把项目外包给我吗? 你肯定不会. 所以我得撒点儿慌, 说什么”花上4万刀 三个月就能做出来” 为什么这么说你就相信了呢? 你如果是个聪明人的话, 你肯定不相信
+
+> 我的意思是, 不管我做什么承诺, 我说的都是错的, 而且往往错的离谱. 
+
+>答案是什么? 你该怎么做呢? 我当然理解你需要一个数字来做好你的财务规划. 你需要选择正确的软件外包伙伴, 你需要知道可以期待什么, 但是....
+
+You're asking the wrong question!
+
+This question has only one valid answer, and it's the answer nobody will ever give you — the development will take forever and will consume all your money. All other answers are simply a lie.
+
+>你问的问题错了
+
+> 这个问题只有一个正确答案. 而且这个答案肯定没人会告诉你 -- 软件项目的开发会持续进行到永久并且会花光你所有的钱. 其他所有的答案都是撒谎
+
+I'm sorry if I've delivered bad news to you.
+
+But let's get back to the original problem: Why are you asking me how much it will take to develop the software if you know it's a never-ending process and there is basically no limit? Because you want to make sure your $40,000 will be used the right way and will produce the maximum it can produce. To get this assurance from me, you're asking for an estimate. I'm telling you that your software will be ready for $40K, and you sleep well. Until the moment you realize you've been fooled. By your own self.
+
+>抱歉告诉你真相了
+
+>我们回到一开始的问题吧: 为什么你要问我开发一个软件要花多少钱? 如果你知道软件开发是个永远不会结束的周期? 因为你想要确定你的4万刀会被花在正确的地方,并且要能够产生最大化的效益. 你想要我保证这一点, 所以你问一个估算. 然后我告诉你:花上四万大洋你的软件就好了, 然后你就睡踏实了. 直到你意识到你被耍了的那一刻, 当然你是自欺欺人. 
+
+Your concern is perfectly valid. You want to spend no more than $40K, and you want to get a product that will help you achieve your business goals. For example, you want to get into the market and acquire your first few thousand users. In other words, your biggest worry is that your dollars will be turned into the right amount of the right software.
+
+Any software team can consume your $40K, but each team will produce a different amount of software with different quality.
+
+My point is that instead of asking how much a software project will cost, you should ask how much software we can create for each dollar you give us and what quality will it be.
+
+Basically, don't ask us to estimate how much gas it will take to get to the finish line, because there is no finish line. Instead, ask us how much we charge per gallon and how many gallons we consume per mile.
+
+>你的担心非常正确. 你不想花超过4万预算. 你想要一个帮助你达成业务目标的产品. 例如你想快速进入市场获得几个用户. 话句话说: 你最大的担心是你花的钱没办法变成你想要的合适软件. 
+
+>任何软件开发团队都能花光你的4万刀, 但是每个团队产生的软件质量又都各不相同. 
+
+>我的意思是说 你不如不要问这块软件多少钱 而是问: 你花的每块钱能产生什么样的软件? 每一份软件的价格是什么样子的?
+
+>意思是说: 不要问我们这块软件搭完要搬多少砖, 因为根本没什么搭完. 而是问:每块砖多少钱,以及你们每天平均搬多少砖
+
+Different teams use different metrics to measure their results (to be honest, most of them don't use any). We, at Teamed.io, use hits of code, bugs, pull requests, test coverage, and a few other metrics as measurable indicators of quantity and quality. We know exactly how much software we can produce for each $100 you pay us.
+
+>不同的团队用不同的指标衡量他们的产出 (老实说其实很多根本不衡量). 而我们主要的衡量指标有: 代码命中率, 错误数量, PR, 测试覆盖率 以及其他一些常用的数量和质量指标. 我们非常清楚100块钱能搬多少砖
+
+Collect those numbers from other teams and compare them. Also, make sure you can control these numbers during the course of the project. That's the guarantee you're looking for. Now you know what you're buying and how much you're paying for it. In other words, like I said above, having these numbers in front of you will assure you that your money is producing the maximum amount of software it can produce, at the highest quality.
+
+>你在打听打听其他大队是怎么搬砖的, 然后比一比. 然后, 你要确信自己能够在开发过程中控制上面的这些指标. 现在你就知道你的钱花在哪儿了. 换句话说,就像我在上面提到的, 能够把这些数字摊在面前, 你才能确定说你的钱 你的好钢都用在刀刃上了. 
+
+The only question left is how you can know you're buying the right software. In other words, you know how much we charge per gallon and how many gallons we use per mile, but how do you know we're driving in the right direction and not making too many circles or detours?
+
+There is only one mechanism to guarantee that: regular checkpoints. You should ask us whether we deliver the software in small and regular increments, and whether we allow you to conduct regular independent reviews of our progress. Also, make sure we prioritize our technical goals, use milestones, versionalize releases, publish release notes, etc. Make sure that in the course of our journey, you are able to control the progress and make corrections.
+
+> 剩下的问题就是: 你怎么知道我们每块砖多少钱, 每天搬多少砖呢? 你怎么知道我们砌出来的墙不会倒呢? 你怎么知道我们没有耍滑头, 把墙推倒重砌呢?
+
+> 只有一个办法: 常规检查. 应该问问我们是不是常规的小规模增量发布软件, 是不是允许你对我们的开发流程进行独立评审. 同样还要确认我们会重视技术目标, 使用里程碑, 版本化发布, 发布说明等等. 确保在我们的开发过程中, 你能够控制进程, 纠正错误. 
+
+To summarize, this is wrong (because there is no "there"):
+
+Hey driver, how much will it cost to get there?
+
+And this is right:
+
+Hey driver, how much do you charge per mile, and do you have a map?
+
+Hope I've made my point clear :)
+
+>错误示范:
+
+>嘿, 老司机, 到天安门多少钱?
+
+>正确示范:
+
+>司机, 你这车每公里多少钱? 你有地图吗?
+
+> 希望我说清楚了
+
+
+###翻译吐槽
+> 当然Yegor说的这个事情挺有意思的, 不过我并不相信它们公司真的就完美的解决了这个问题.  有一点是很重要的, 就是信任. 甲方和乙方如果建立了信任的话, 那么合作一定是会愉快的. Yegor和老司机的例子只是说, 你可以通过一些严格的技术指标来自我信任. 然而我倒是希望软件开发能够跟打个车那么简单. 数据可以被做各种各样的解释, 你只是从一个空间变换到了另外一个空间, 一个你可能不是那么熟悉的空间. 
+> 什么你问我说代码命中率是什么鬼? 恩大概是为了确保你不搬无用的砖. ^^ wow 有人尝试统计代码行数哦!
+
